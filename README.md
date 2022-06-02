@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlennikovYV
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me OlennikovYV@mail.ru
 
