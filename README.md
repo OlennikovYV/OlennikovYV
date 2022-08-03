@@ -7,7 +7,11 @@
 
 [![codewars](https://www.codewars.com/users/OlennikovYV/badges/micro?theme=light)](https://www.codewars.com/users/username)
 
-![](https://komarev.com/ghpvc/?username=OlennikovYV&color=green)
+<!--- ![](https://komarev.com/ghpvc/?username=OlennikovYV&color=green) --->
+
+<!--- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlennikovYV&theme=default) --->
+
+<!--- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OlennikovYV&theme=default) --->
 
 <!---
 OlennikovYV/OlennikovYV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
