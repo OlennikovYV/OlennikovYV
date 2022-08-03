@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OlennikovYV
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Frontend
 - 📫 How to reach me OlennikovYV@mail.ru
 
 <!---
