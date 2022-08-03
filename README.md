@@ -5,7 +5,7 @@
 - 📫 How to reach me OlennikovYV@mail.ru
 
 
-https://www.codewars.com/users/OlennikovYV/badges/large?theme=light
+[![codewars](https://www.codewars.com/users/OlennikovYV/badges/micro?theme=light)](https://www.codewars.com/users/username)
 
 <!---
 OlennikovYV/OlennikovYV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
