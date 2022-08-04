@@ -7,7 +7,7 @@
 
 [![codewars](https://www.codewars.com/users/OlennikovYV/badges/micro?theme=light)](https://www.codewars.com/users/username)
 
-<!--- ![](https://komarev.com/ghpvc/?username=OlennikovYV&color=green) --->
+![](https://komarev.com/ghpvc/?username=OlennikovYV&color=green)
 
 <!--- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlennikovYV&theme=default) --->
 
