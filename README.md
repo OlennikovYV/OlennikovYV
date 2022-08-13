@@ -5,7 +5,7 @@
 - 📫 How to reach me OlennikovYV@mail.ru
 
 
-[![codewars](https://www.codewars.com/users/OlennikovYV/badges/micro?theme=light)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/OlennikovYV/badges/micro?theme=light)](https://www.codewars.com/users/OlennikovYV)
 
 ![](https://komarev.com/ghpvc/?username=OlennikovYV&color=green)
 
