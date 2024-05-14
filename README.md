@@ -16,6 +16,8 @@
 
 ![](https://komarev.com/ghpvc/?username=OlennikovYV&color=green)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlennikovYV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlennikovYV&theme=default) --->
 
 <!--- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OlennikovYV&theme=default) --->
